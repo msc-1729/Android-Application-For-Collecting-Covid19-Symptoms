@@ -23,6 +23,9 @@ The whole application contains two pages of which one is the main page that disp
 The user will be asked to click on the measure heart rate button and measure respiratory rate button to collect data from the smartphone sensors. The numbers will be stored in a database corresponding to the user. In this assignment, we will assume only a single user. The user will then hit the upload signs button which will create a database with the user’s last name in the smartphone. The entry of the database will be a table with the first two columns heart rate and respiratory rate respectively. Each entry of the database will have 10 additional columns which will be filled in the next page.
 Once the user is done collecting signs data, the user will be taken to the second page to collect symptoms data. The user will select a symptom and then select a rating out of 5. The user does not need to select all the symptoms. Whichever symptoms the user has not reported will be marked with a 0 rating. After this, the user will click an upload symptoms button. At this point, a database table entry with 12 entries will be created and stored in the database on the smartphone. 
 
+The demo which shows the working and usage of the functionalities of the application can be found at : 
+https://youtu.be/qB5b08arvXI
+
 
 
 
